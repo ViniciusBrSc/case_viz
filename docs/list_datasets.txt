@@ -1,0 +1,1032 @@
+
+dataset_id: 
+	br-cvm-administradores-carteira 
+description: 
+	Dados Cadastrais de Administradores de Carteira da CVM. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-poder360-pesquisas 
+description: 
+	Dados de pesquisas eleitorais compiladas pelo Poder360. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-capes-bolsas 
+description: 
+	None 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-bd-diretorios-brasil 
+description: 
+	Tabelas ligando diversos códigos institucionais e informações de entidades brasileiras. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-tse-eleicoes 
+description: 
+	Dados de eleições brasileiras desde 1945 fornecidos pelo TSE. Inclui dados de eleitorado, 
+resultados e prestação de contas. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-cvm-oferta-publica-distribuicao 
+description: 
+	Ofertas de distribuição (ações, fundos, debêntures, CRI, etc) registradas ou dispensadas 
+registro. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-geobr-mapas 
+description: 
+	O geobr é um pacote R que permite que os usuários acessem facilmente os shapefiles 
+Instituto Brasileiro de Geografia e Estatística (IBGE) e outros conjuntos oficiais 
+dados espaciais do Brasil. O pacote inclui uma ampla variedade de conjuntos de dados 
+como recursos simples, disponíveis em várias escalas geográficas e por vários anos. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-bd-indicadores 
+description: 
+	Indicadores da Base dos Dados enquanto organização sem fins lucrativos. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-cgu-pessoal-executivo-federal 
+description: 
+	Contém informações acerca dos contratos de terceirização de mão de obra, incluindo 
+autarquias e fundações vinculadas, bem como de  servidores públicos dos ministérios 
+Poder Executivo Federal, mantido pela Controladoria Geral da União - CGU.
+ 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ms-sim 
+description: 
+	O Sistema de Informações sobre Mortalidade (SIM) foi criado pelo DATASUS para a 
+regular de dados sobre mortalidade no país. A partir da criação do SIM foi possível 
+captação de dados sobre mortalidade, de forma abrangente, para subsidiar as diversas 
+de gestão na saúde pública. Com base nessas informações é possível realizar análises 
+situação, planejamento e avaliação das ações e programas na área. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ibge-populacao 
+description: 
+	Fornece estimativas do total da população dos Municípios e das Unidades da Federação 
+com data de referência em 1o de julho, para o ano calendário corrente.
+
+O IBGE divulga as estimativas de população estaduais e municipais desde 1975. A 
+de 1992, passou a publicá-las no Diário Oficial da União, em cumprimento ao Art. 
+da Lei n. 8.443, de 16.07.1992, para os fins previstos no Inciso VI do Art. 1o da 
+lei. Em 2013, foi publicada a Lei Complementar n. 143, de 17.07.2013, estabelecendo 
+entidade competente do poder executivo federal fará publicar, no Diário Oficial 
+União, até o dia 31 de agosto de cada ano, a relação das populações dos Municípios, 
+até 31 de dezembro, a relação das populações dos Estados e do Distrito Federal. 
+populações municipais, cabe destacar, são o insumo mais importante utilizado pelo 
+de Contas da União - TCU para a distribuição do Fundo de Participação dos Estados 
+do Distrito Federal - FPE e do Fundo de Participação dos Municípios - FPM.
+
+As estimativas de população publicadas anualmente são calculadas aplicando-se o 
+matemático desenvolvido, em 1972, por João Lira Madeira e Celso Cardoso da Silva 
+denominado AiBi. Esse método utiliza como insumos básicos as populações obtidas 
+Projeções da População para o Brasil e as Unidades da Federação mais recentes, bem 
+o crescimento populacional de cada Município na última década, delineado pelas respectivas 
+recenseadas nos dois últimos Censos Demográficos realizados. Essas populações recenseadas, 
+servem de base para o cálculo da tendência de crescimento populacional dos Municípios, 
+ser ajustadas em consonância com os ajustes da população adotados nas Projeções 
+População para o Brasil e as Unidades da Federação.
+
+Além dos insumos básicos citados, as estimativas municipais de população incorporam, 
+cada ano, atualizações da divisão político-administrativa do País que refletem, 
+sua vez, as alterações dos limites territoriais dos Municípios ocorridas após o 
+Censo Demográfico. Uma vez que a soma das populações dos Municípios resulta no total 
+população da respectiva Unidade da Federação, eventuais diferenças entre a população 
+de uma Unidade da Federação obtida das Estimativas da População e aquela obtida 
+Projeções da População são resultantes da atualização da divisão político-administrativa 
+após o ano-base de início das projeções (e, portanto, não considerada nas Projeções 
+População das Unidades da Federação). 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-me-comex-stat 
+description: 
+	O Comex Stat um sistema para consultas e extração de dados do comércio exterior 
+São divulgados mensalmente os dados detalhados das exportações e importações brasileiras, 
+do SISCOMEX e baseados na declaração dos exportadores e importadores. A base de 
+do sistema também está disponível para download. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ibge-inpc 
+description: 
+	Índice Nacional de Preços ao Consumidor (INPC) 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-inmet-bdmep 
+description: 
+	O BDMEP abriga dados meteorológicos diários em forma digital, de séries históricas 
+várias estações meteorológicas convencionais da rede de estações do INMET com milhões 
+informações, referentes às medições diárias, de acordo com as normas técnicas internacionais 
+Organização Meteorológica Mundial.
+ 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-senado-cpipandemia 
+description: 
+	Base de dados contendo informações sobre a Comissão Parlamentar de Inquérito (CPI) 
+Pandemia da COVID-19 no Brasil, instalada no Senado Federal em abril de 2021.Constam 
+momento os discursos proferidos em suas sessões e que foram transcritos pelo Senado 
+
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-sp-gov-orcamento 
+description: 
+	Disponibilização de informações da execução orçamentária e financeira dos órgãos 
+entidades da Administração Direta e Indireta do Estado a partir de 2010, com detalhamento 
+despesas empenhadas, liquidadas e pagas, do ano e de restos a pagar, incluídas as 
+
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ana-reservatorios 
+description: 
+	Dados operativos dos reservatórios do Brasil, disponibilizados pela Agência Nacional 
+Águas (ANA). 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-anatel-telefonia-movel 
+description: 
+	Dados da Anatel referente a dados móveis, também conhecido como Serviço Móvel Pessoal 
+A agência oferece análises preliminares sobre os dados numa perspectiva geral no 
+site de dowloand dos microdados.
+ 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ms-sinan 
+description: 
+	O Sistema de Informação de Agravos de Notificação (SINAN) tem como objetivo coletar, 
+e disseminar dados gerados rotineiramente pelo Sistema de Vigilância Epidemiológica 
+três esferas de governo, através de uma rede informatizada, para apoiar o processo 
+investigação e dar subsídios à análise das informações de vigilância epidemiológica 
+doenças e agravos de notificação compulsória.
+
+O sistema foi desenvolvido para ser operacionalizado da Unidade de Saúde até a Secretaria 
+de Saúde, porém caso o município não disponha de microcomputadores nas suas unidades, 
+mesmo pode ser operacionalizado a partir das Secretarias Municipais de Saúde (SMS), 
+Regionais de Saúde e da Secretaria Estadual de Saúde. O sistema é alimentado semanalmente 
+52 semanas, de acordo com o calendário epidemiológico do ano. Em consequência, quando 
+houver a ocorrência de algum caso de doença ou agravo de notificação compulsória 
+alguma unidade de saúde, a SMS deve fazer uma notificação negativa para cada unidade 
+situação. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ms-vacinacao-covid19 
+description: 
+	Dados de vacinação contra a Covid-19 no Brasil.
+
+Fonte original: https://opendatasus.saude.gov.br/dataset/covid-19-vacinacao. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ons-energia-armazenada 
+description: 
+	Dados das grandezas de energia armazenada (EAR) em periodicidade diária. A Energia 
+(EAR) representa a energia associada ao volume de água disponível nos reservatórios 
+pode ser convertido em geração na própria usina e em todas as usinas à jusante na 
+A grandeza de EAR leva em conta nível verificado nos reservatórios na data de referência. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	mundo-onu-adh 
+description: 
+	O Atlas do Desenvolvimento Humano no Brasil é um site que traz o Índice de Desenvolvimento 
+Municipal (IDHM) e outros 200 indicadores de demografia, educação, renda, trabalho, 
+e vulnerabilidade para os municípios brasileiros. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-me-rais 
+description: 
+	A Relação Anual de Informações Sociais (RAIS) é um relatório de informações socioeconômicas 
+pela Secretaria de Trabalho do Ministério da Economia brasileiro às pessoas jurídicas 
+outros empregadores anualmente. Foi instituída pelo Decreto nº 76.900, de 23 de 
+de 1975. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-inep-indicador-nivel-socioeconomico 
+description: 
+	None 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-inep-formacao-docente 
+description: 
+	None 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	mundo-transrespect-transphobia 
+description: 
+	O dataset contem tabelas a diferentes niveis de agregação que retratam casos de 
+de pessoas trans. Os dados vem da iniciativa Transrespect x Transphobia, que contabilizam 
+de pessoas trans no mundo inteiro. As tabelas estão disponibilizadas em um arquivo 
+publicado anualmente e que nos permite acesso a 3 níveis de agregação de mortes 
+transsexuais: país onde ocorreu, local onde ocorreu e meio/causa da morte. Todas 
+facetas vem sendo registrados desde 2008.
+ 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-cgu-servidores-executivo-federal 
+description: 
+	Registros mensais dos servidores públicos do poder executivo federal, disponibilizados 
+Portal da Transparência, mantido pela Controladoria Geral da União - CGU. Os dados 
+originários do Sistema Integrado de Administração de Recursos Humanos (SIAPE), do 
+Central (BACEN), do Ministério das Relações Exteriores (MRE) e dos Comandos Militares 
+Brasil (Exército, Marinha e Aeronáutica).
+
+Essas bases não incluem informações sobre: servidores de outras esferas (municipal 
+estadual); de outros poderes (legislativo e judiciário); aposentados que não estejam 
+ativa; servidores de empresas públicas; e terceirizados.
+ 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ibge-cbo-2002 
+description: 
+	Informações sobre a Classificação Brasileira de Ocupações 2002. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	mundo-kaggle-olimpiadas 
+description: 
+	A base oferece a série histórica de dados dos atletas presentes em Jogos Olímpicos 
+1896. Mais informações podem ser acessadas em https://www.kaggle.com/heesoo37/olympic-history-data-a-thorough-analysis. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	eu-fra-lgbt 
+description: 
+	O dataset contém tabelas relacionadas a uma ampla pesquisa online sobre e para 
+comunidade LGBT, conduzida em 2012 em quase todos os países europeus. A pesquisa 
+diferentes grupos de questões, que motivaram as diferentes tabelas criadas. Cada 
+abrange uma temática e contém perguntas dessa temática. São exemplos: discriminação, 
+e cotidiano.
+ 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ggb-relatorio-lgbtqi 
+description: 
+	As tabelas desse dataset contém dados originários dos relatórios de assassinato 
+lgbtqia+ no Brasil. Os relatórios são feitos pelo Grupo Gay da Bahia e tem periodicidade 
+Nos relatórios, dados de homicídio de LGBTQIA+s são disponibilizados em diferentes 
+de agregação. Essas diferentes agregações possibilitam a organização das diferentes 
+aqui existentes.
+ 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-mc-indicadores 
+description: 
+	Indicadores de programas do Ministério da Cidadania.
+ 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-isp-estatisticas-seguranca 
+description: 
+	Estatísticas de Segurança Pública do Rio de Janeiro. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-bd-vizinhanca 
+description: 
+	Matrizes de vizinhança de entidades geográficas no Brasil. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-inep-ana 
+description: 
+	A ANA, um dos instrumentos do Sistema de Avaliação da Educação Básica (Saeb), avalia 
+níveis de alfabetização e letramento em língua portuguesa, a alfabetização em matemática 
+as condições de oferta do ciclo de alfabetização das redes públicas. Passam pela 
+todos os estudantes do terceiro ano do ensino fundamental matriculados nas escolas 
+no ano da aplicação da avaliação. Em 2016, os testes da ANA foram aplicados para 
+milhões de estudantes, de 50 mil escolas e 100 mil turmas. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-seeg-emissoes 
+description: 
+	O Sistema de Estimativas de Emissões e Remoções de Gases de Efeito Estufa (SEEG) 
+uma iniciativa do Observatório do Clima que compreende a produção de estimativas 
+das emissões de gases de efeito estufa (GEE) no Brasil, documentos analíticos sobre 
+evolução das emissões e um portal na internet para disponibilização de forma simples 
+clara dos métodos e dados do sistema.
+
+São avaliados todos os cinco setores que são fontes de emissões – Agropecuária, 
+Mudanças de Uso da Terra, Processos Industriais e Resíduos com o mesmo grau de detalhamento 
+nos inventários de emissões. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-tse-filiacao-partidaria 
+description: 
+	Relação de pessoas filiadas a partidos políticos no Brasil. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-anvisa-medicamentos-industrializados 
+description: 
+	Estes arquivos consolidam dados públicos referentes às movimentações do tipo venda 
+consumidor para os medicamentos sujeitos à escrituração junto ao SNGPC. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-bd-diretorios-data-tempo 
+description: 
+	Tabelas de data e tempo para padronização ISO-8601 na Base dos Dados. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-denatran-frota 
+description: 
+	Frota de veículos por tipo, estado e município. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ibge-nomes-brasil 
+description: 
+	No Brasil, de acordo com o Censo Demográfico 2010, existem cerca de 200 milhões 
+habitantes com mais de 130 mil nomes diferentes.
+ 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ibge-pam 
+description: 
+	A pesquisa Produção Agrícola Municipal - PAM investiga, anualmente, os principais 
+das lavouras temporárias e permanentes do País, que se caracterizam não só pela 
+importância econômica que possuem na pauta de exportações, como também por sua relevância 
+componentes que são da cesta básica do brasileiro.
+
+Com o lançamento deste informativo, o IBGE apresenta comentários gerais sobre os 
+resultados da PAM relativos a 2018, contemplando informações sobre área plantada 
+área destinada à colheita, área colhida, quantidade produzida, rendimento médio 
+e valor da produção dos produtos investigados, por Grandes Regiões, Unidades da 
+e Municípios. A análise enfoca o desempenho das lavouras de maior relevância, tanto 
+como comercial, em que se destacam a distribuição espacial dos principais produtos 
+no território e sua participação relativa no valor total das produções regional 
+nacional, as colheitas obtidas nos principais municípios produtores, bem como os 
+de maior influência nos resultados e na produtividade dessas lavouras, entre outros 
+
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ibge-pnad-covid 
+description: 
+	Objetiva estimar o número de pessoas com sintomas referidos associados à síndrome 
+e monitorar os impactos da pandemia da COVID-19 no mercado de trabalho brasileiro.
+
+A coleta da Pesquisa Nacional por Amostra de Domicílios - PNAD COVID19 teve início 
+4 de maio de 2020, com entrevistas realizadas por telefone em, aproximadamente, 
+mil domicílios por semana, totalizando cerca de 193 mil domicílios por mês, em todo 
+Território Nacional. A amostra é fixa, ou seja, os domicílios entrevistados no primeiro 
+de coleta de dados permanecerão na amostra nos meses subsequentes, até o fim da 
+questionário se divide em duas partes, sendo uma direcionada a questões de saúde, 
+sobre sintomas associados à síndrome gripal e outra, a questões de trabalho. Nas 
+de saúde, investiga-se a ocorrência de alguns dos principais sintomas da COVID19 
+período de referência da pesquisa, considerando-se todos os moradores do domicílio. 
+aqueles que apresentaram algum sintoma, perguntam-se quais as providências tomadas 
+alivio dos sintomas; se buscaram por atendimento médico devido a esses sintomas; 
+o tipo de estabelecimento de saúde procurado. Nas questões de trabalho, busca-se 
+a população em idade de trabalhar nas seguintes categorias: ocupados, desocupados 
+pessoas fora da força de trabalho. Investiga-se, ainda, os seguintes aspectos: ocupação 
+atividade; afastamento do trabalho e o motivo do afastamento; exercício de trabalho 
+busca por trabalho; motivo por não ter procurado trabalho; horas semanais efetivamente 
+habitualmente trabalhadas; assim como o rendimento efetivo e habitual do trabalho. 
+fim, visando compor o rendimento domiciliar, pergunta-se se algum morador recebeu 
+rendimentos não oriundos do trabalho, tais como: aposentadoria, BPC-LOAS, Bolsa 
+algum auxílio emergencial relacionado à COVID, seguro desemprego, aluguel e outros. 
+ressaltar que a PNAD COVID19 é uma pesquisa com instrumento dinâmico de coleta das 
+portanto, o questionário está sujeito a alterações ao longo do período de sua aplicação.
+
+A pesquisa prevê divulgações semanais para alguns indicadores, em nível Brasil, 
+divulgações mensais para um conjunto mais amplo de indicadores, por Unidades da 
+resultados da PNAD COVID19 são pioneiros no sentido de constituírem a primeira divulgação 
+Estatísticas Experimentais elaboradas pelo IBGE, as quais estão alinhadas com a 
+de modernização do Instituto e permitem a ampliação das ofertas de informação para 
+às necessidades de seus usuários. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ibge-ppm 
+description: 
+	A Pesquisa da Pecuária Municipal - PPM teve início no Ministério da Agricultura 
+1945. Suas informações eram levantadas pela Rede de Coleta do IBGE, cabendo ao Ministério 
+elaboração dos questionários, a apuração, a crítica e a divulgação dos resultados. 
+a publicação do Decreto n. 73.482, de 17.01.1974, o Instituto tornou-se responsável 
+todas as fases da pesquisa a partir daquela data, bem como pelos demais inquéritos 
+relacionados ao setor agropecuário. As estatísticas relativas aos anos de 1971 e 
+porém, não estão disponíveis por não terem sido divulgadas pelo Ministério. Até 
+as variáveis investigadas eram, basicamente, a quantidade de animais existentes 
+31.12, a produção dos principais produtos primários da pecuária e o preço médio 
+unitário. Em 1981 e 1989, ocorreram modificações no questionário da pesquisa visando 
+aprimoramento de seu escopo. Em 2013, além de outros aprimoramentos realizados no 
+passou a ser investigada, também, a produção da aquicultura, fruto de acordo entre 
+IBGE e o Ministério da Pesca e Aquicultura. A produção de peixes, camarões e moluscos, 
+de peixes, larvas de camarão, sementes de moluscos, bem como o valor da produção 
+outros animais (rã, jacaré etc.) foram, assim, introduzidos no âmbito da PPM.
+
+A pesquisa fornece informações sobre os efetivos da pecuária existentes no município 
+data de referência do levantamento, bem como a produção de origem animal, e o valor 
+produção durante o ano de referência. Os efetivos incluem bovinos, suínos, matrizes 
+suínos, galináceos, galinhas, codornas, equinos, bubalinos, caprinos e ovinos. A 
+de origem animal, por sua vez, contempla a produção de leite, ovos de galinha, ovos 
+codorna, mel, lã bruta e casulos do bicho-da-seda; as quantidades de vacas ordenhadas 
+ovinos tosquiados; e a aquicultura, que engloba as produções da piscicultura, carcinocultura 
+malacocultura. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-inep-ideb 
+description: 
+	O Índice de Desenvolvimento da Educação Básica (Ideb) foi criado em 2007 e reúne, 
+um só indicador, os resultados de dois conceitos igualmente importantes para a qualidade 
+educação: o fluxo escolar e as médias de desempenho nas avaliações.
+
+Ele é calculado a partir dos dados sobre aprovação escolar, obtidos no Censo Escolar, 
+das médias de desempenho nas avaliações do Inep, o Sistema de Avaliação da Educação 
+(Saeb) – para as unidades da federação e para o país, e a Prova Brasil – para os 
+Ideb agrega ao enfoque pedagógico dos resultados das avaliações em larga escala 
+Inep a possibilidade de resultados sintéticos, facilmente assimiláveis, e que permitem 
+metas de qualidade educacional para os sistemas. O índice varia de zero a 10 e a 
+entre fluxo e aprendizagem tem o mérito de equilibrar as duas dimensões: se um sistema 
+ensino retiver seus alunos para obter resultados de melhor qualidade no Saeb ou 
+Brasil, o fator fluxo será alterado, indicando a necessidade de melhoria do sistema. 
+ao contrário, o sistema apressar a aprovação do aluno sem qualidade, o resultado 
+avaliações indicará igualmente a necessidade de melhoria do sistema.
+
+O Ideb também é importante por ser condutor de política pública em prol da qualidade 
+educação. É a ferramenta para acompanhamento das metas de qualidade do Plano de 
+da Educação (PDE) para a educação básica, que tem estabelecido, como meta, que em 
+o Ideb do Brasil seja 6,0 – média que corresponde a um sistema educacional de qualidade 
+a dos países desenvolvidos. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-inep-indicadores-educacionais 
+description: 
+	Os indicadores educacionais atribuem valor estatístico à qualidade do ensino, atendo-se 
+somente ao desempenho dos alunos mas também ao contexto econômico e social em que 
+escolas estão inseridas. Eles são úteis principalmente para o monitoramento dos 
+educacionais, considerando o acesso, a permanência e a aprendizagem de todos os 
+Dessa forma, contribuem para a criação de políticas públicas voltadas para a melhoria 
+qualidade da educação e dos serviços oferecidos à sociedade pela escola. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ipea-acesso-oportunidades 
+description: 
+	O Projeto Acesso a Oportunidades traz estimativas de acesso a postos de emprego, 
+e educação por modo de transporte para as maiores cidades do Brasil. A pesquisa 
+diferentes indicadores para estimar as condições de acessibilidade urbana desagregadas 
+grupos socioeconômicos e em alta resolução espacial. Todas as publicações, dados 
+códigos do projeto estão disponíveis publicamente a partir deste site. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-me-pensionistas 
+description: 
+	As informações disponibilizadas referem-se ao pagamento (rendimento bruto) recebido 
+pensionistas de servidores instituidores de pensão, constantes no Sistema Integrado 
+Administração de Pessoal (Siape).
+
+Cabe ressaltar que o Ministério da Economia é responsável pelas informações dos 
+instituidores de pensão e pensionistas do Poder Executivo Federal, não incluindo 
+dos poderes Judiciário e Legislativo. Também não constam nos arquivos, dados relativos 
+servidores do Banco Central do Brasil (1), Ministério da Defesa (2) (com exceção 
+militares de ex-territórios ou que assumiram cargos civis no Poder Executivo Federal) 
+Governo do Distrito Federal (3) (Fundo Constitucional), responsáveis pela publicação 
+seus dados em portais próprios.
+
+Em relação à Agência Brasileira de Inteligência (Abin), os dados funcionais de pessoal 
+protegidos pela legislação vigente Lei nº 9883 (4) e Portaria Conjunta n° 5, de 
+(5).
+
+Destacamos que todas as pensões acima do teto do funcionalismo público estão sujeitas 
+abate-teto. Aos pensionistas com mais de um benefício, aplica-se o abate-teto em 
+da soma das pensões, considerando os valores proporcionais a cada uma.
+
+### Conceito
+
+Beneficiário de pensão ou pensionista: Dependente do servidor titular de cargo efetivo 
+União ou do aposentado que faleceu; dependente de anistiado político ou pessoa que 
+pensão especial graciosa ou indenizatória, concedida por meio de Lei ou Decreto 
+ou beneficiados dessas condições por decisão judicial, a quem tenha sido concedido 
+benefício da pensão.
+
+### Política Pública
+
+Política de aperfeiçoamento contínuo dos processos de gestão de pessoas no âmbito 
+administração pública federal, no que se refere ao aspecto de aprimorar a cultura 
+transparência pública de forma a franquear a todos o acesso de forma aberta, aos 
+produzidos ou acumulados pelo Poder Executivo federal, sobre os quais não recaia 
+expressa de acesso.
+
+### Legislação
+
+Lei nº 8112 de 11 de dezembro de 1990, Lei nº 13.135, de 17 de junho de 2015. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-rj-rio-de-janeiro-ipp-ips 
+description: 
+	O Índice de Progresso Social (IPS) é uma abordagem de mensuração direta do desenvolvimento 
+a partir de indicadores selecionados em três dimensões e 12 componentes definidos 
+A seleção das dimensões e componentes foi realizada pelo Social Progress Imperative 
+apoio de acadêmicos nas universidades de Harvard e do Massachusetts Institute of 
+(MIT) com o objetivo de cobrir um gama abrangente de temas, sempre tentando responder 
+que medida cada território é capaz de prover condições mínimas para seus habitantes. 
+mensuração direta entende-se a medição que não inclui proxies econômicas nem tampouco 
+de insumos (inputs), como o nível de investimento e a capacidade instalada de atendimento 
+serviços públicos. Mede-se o desenvolvimento com indicadores de resultados (outcomes), 
+a cobertura de serviços efetivamente disponível, a variação da incidência de doenças 
+a exposição à violência..
+
+O IPS combina variáveis sociais comumente usadas em avaliações do desenvolvimento 
+e bem-estar — indicadores de saúde, nível de acesso e qualidade dos serviços básicos 
+da educação básica e superior — com variáveis ambientais, acesso à comunicação, 
+humanos, liberdade de escolha, tolerância e inclusão. A justificativa desse modelo 
+que o crescimento econômico é condição necessária, mas não suficiente, do desenvolvimento 
+ou “Progresso Social”. Segundo o relatório metodológico do Índice de Progresso Social 
+o “Progresso Social” é a capacidade de uma sociedade de atender às Necessidades 
+Básicas de seus cidadãos, estabelecer os componentes básicos que permitam aos cidadãos 
+às comunidades melhorar e manter a qualidade de vida e criar as condições para que 
+atinjam seu pleno potencial.
+
+A estrutura básica do IPS tem sido utilizada em diversas aplicações. O IPS Global 
+criado com 52 indicadores levantados para 133 países. A mesma estrutura foi adaptada 
+aplicada para as Regiões administrativas no IPS RIO e, em outros contextos, para 
+e cidades na Colômbia, Costa Rica, Estados Unidos, Paraguai, Peru e União Europeia.
+
+Em cada aplicação, a definição de indicadores é realizada localmente por meio de 
+participativo, envolvendo os atores locais, como governo, universidades, institutos 
+pesquisa, empresas, fundações e organizações da sociedade civil. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-sp-seduc-fluxo-escolar 
+description: 
+	O fluxo escolar é medido pela taxa média de aprovação em cada etapa da escolarização, 
+elas as séries iniciais e séries finais do Ensino Fundamental e Ensino Médio, coletadas 
+Censo Escolar.
+
+Os Dados de fluxo são apresentados por diretoria de ensino, escola e município, 
+por ano, a partir de 2011. Acesse o dicionário de dados para a descrição dos campos 
+banco de dados. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-sp-seduc-idesp 
+description: 
+	O IDESP é um indicador que avalia a qualidade da escola. Nesta avaliação, considera–se 
+uma boa escola é aquela em que a maior parte dos alunos aprende as competências 
+habilidades requeridas para a sua série/ano, num período de tempo ideal – o ano 
+O IDESP é composto por dois critérios: o desempenho dos alunos nos exames de proficiência 
+SARESP (o quanto aprenderam) e o fluxo escolar (em quanto tempo aprenderam). 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-sp-seduc-inse 
+description: 
+	Calculado a partir dos questionários do SARESP, o INSE considera as seguintes variáveis:
+
+- Grau de escolaridade dos pais;
+- Posse de bens de consumo duráveis na residência;
+- Renda familiar. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-camara-dados-abertos 
+description: 
+	Dados abertos da Câmara Federal de Deputados 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-camara-atividade-legislativa 
+description: 
+	Conjunto de dados das APIs da Câmara dos Deputados.
+
+Contém tabelas diversas sobre a atividade legislativa na Casa como os 
+Deputados em cada legislatura, votações, proposições e tramitação das 
+proposições, entre outras.
+
+A API oficial pode ser encontrada em https://dadosabertos.camara.leg.br/swagger/api.html
+ 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ibge-pnad 
+description: 
+	Microdados da Pesquisa Nacional por Amostra de Domicílios - PNAD, compatibilizados 
+DataZoom. A PNAD investiga diversas características da população brasileira, tais 
+educação, trabalho, rendimento e composição domiciliar.  
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-me-siconfi 
+description: 
+	O Sistema de Informações Contábeis e Fiscais do Setor Público Brasileiro (Siconfi) 
+desenvolvido como um instrumento para, dentre outros objetivos, facilitar a produção 
+análise de informações contábeis e fiscais, padronizar os mecanismos de consolidação 
+aumentar a qualidade e confiabilidade das informações contábeis, financeiras e de 
+fiscais recebidas dos municípios, estados, Distrito Federal e União. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-tpe-classificacao-saeb 
+description: 
+	Classificações de Performance no SAEB desenvolvidos pelo pesquisador Francisco 
+
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-anp-precos-combustiveis 
+description: 
+	Em cumprimento às determinações da Lei do Petróleo (Lei nº 9478/1997, artigo 8º), 
+ANP acompanha os preços praticados por revendedores de combustíveis automotivos 
+de gás liquefeito de petróleo envasilhado em botijões de 13 quilos (GLP P13), por 
+de uma pesquisa semanal de preços realizada por empresa contratada. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-inep-censo-escolar 
+description: 
+	O Censo Escolar é o principal instrumento de coleta de informações da educação 
+e a mais importante pesquisa estatística educacional brasileira. É coordenado pelo 
+e realizado em regime de colaboração entre as secretarias estaduais e municipais 
+educação e com a participação de todas as escolas públicas e privadas do país.
+
+Ele abrange as diferentes etapas e modalidades da educação básica e profissional:
+- Ensino regular (educação infantil, ensino fundamental e médio);
+- Educação especial – modalidade substitutiva;
+- Educação de Jovens e Adultos (EJA);
+- Educação profissional (cursos técnicos e cursos de formação inicial continuada 
+qualificação profissional).
+
+A coleta de dados das escolas tem caráter declaratório e é dividida em duas etapas. 
+primeira etapa consiste no preenchimento da Matrícula Inicial, quando ocorre a coleta 
+informações sobre os estabelecimentos de ensino, gestores, turmas, alunos e profissionais 
+em sala de aula. A segunda etapa ocorre com o preenchimento de informações sobre 
+Situação do Aluno, e considera os dados sobre o movimento e rendimento escolar dos 
+ao final do ano letivo. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ba-feiradesantana-camara-leis 
+description: 
+	Essa base de dados contém as leis municipais de Feira de Santana (BA). 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-mme-consumo-energia-eletrica 
+description: 
+	Dados mensais do consumo de energia elétrica na rede (MWh) em nível nacional e 
+por classes. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-anatel-banda-larga-fixa 
+description: 
+	Dados referente ao total de acessos a Banda Larga Fixa (também denominado por Serviço 
+Multimídia - SCM) provenientes da Anatel. A base inclui ainda, dados de entrada 
+banda larga nas escolas segundo o Programa Banda Larga nas Escolas e a instalação 
+backhauls segundo o Plano Nacional de Universalização da Banda Larga. 
+ 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ms-cnes 
+description: 
+	O Cadastro Nacional de Estabelecimentos de Saúde (CNES) é um documento público 
+sistema de informação oficial de cadastramento de informações acerca de todos os 
+de saúde do país, independentemente de sua natureza jurídica ou integração com o 
+Único de Saúde (SUS). O Cadastro Nacional de Estabelecimentos de Saúde (CNES) é 
+documento público e sistema de informação oficial de cadastramento de informações 
+de todos os estabelecimentos de saúde do país, independentemente de sua natureza 
+ou integração com o Sistema Único de Saúde (SUS). Trata-se do cadastro oficial do 
+da Saúde (MS) no tocante à realidade da capacidade instalada e mão-de-obra assistencial 
+saúde no Brasil em estabelecimentos de saúde públicos ou privados, com convênio 
+ou não. O CNES é a base cadastral para operacionalização de diversos sistemas, tais 
+Sistema de Informação Ambulatorial (SIA), Sistema de Informação Hospitalar (SIH), 
+SUS Atenção Básica (e-SUS AB), entre outros. Atualmente, o CNES é a ferramenta auxiliadora 
+uma gestão eficaz e eficiente, proporcionando ao gestor o conhecimento da realidade 
+rede assistencial existente e suas potencialidades e, auxiliando no planejamento 
+saúde em todas as esferas administrativa do Governo.
+
+De acordo com a Portaria de Consolidação GM/MS n° 1, de 28 de setembro de 2017, 
+359, o CNES se constitui como documento público e sistema de informação oficial 
+cadastramento de informações de todos os estabelecimentos de saúde no país, independentemente 
+Natureza Jurídica ou de integrarem o Sistema Único de Saúde (SUS).
+
+São finalidades do CNES:
+
+I - cadastrar e atualizar as informações sobre estabelecimentos de saúde e suas 
+como recursos físicos, trabalhadores e serviços;
+
+II - disponibilizar informações dos estabelecimentos de saúde para outros sistemas 
+informação;
+
+III - ofertar para a sociedade informações sobre a disponibilidade de serviços nos 
+formas de acesso e funcionamento;
+
+IV - fornecer informações que apoiem a tomada de decisão, o planejamento, a programação 
+o conhecimento pelos gestores, pesquisadores, trabalhadores e sociedade em geral 
+da organização, existência e disponibilidade de serviços, força de trabalho e capacidade 
+dos estabelecimentos de saúde e territórios. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-sp-gov-ssp 
+description: 
+	Dados estatísticos da Secretaria de Segurança Pública do Estado de São Paulo. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ms-imunizacoes 
+description: 
+	Dados acerca dos boletins de doses aplicadas de vacina coletados pelo Sistema de 
+do Programa de Imunizações (API) a nivel estadual e disponibilizados a nivel nacional 
+compatibilização. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	nl-ug-pwt 
+description: 
+	Os dados da Penn World Table (versão 10.0) tratam sobre renda, produção, insumos 
+produtividade. A base fornece contas de paridade do poder de compra e renda nacional 
+a preços internacionais para 183 países de 1950 a 2019. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-bd-diretorios-mundo 
+description: 
+	Diretórios cobrindo entidades internacionais. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ibge-ipp 
+description: 
+	None 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ms-populacao 
+description: 
+	População brasileira estimada em divisões por sexo e grupos de idade. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ana-atlas-esgotos 
+description: 
+	O Atlas Esgotos é o resultado de um trabalho conjunto, desenvolvido sob a coordenação 
+Agência Nacional de Águas (ANA) em parceria com a Secretaria Nacional de Saneamento 
+do Ministério das Cidades (SNSA/MCidades) e com a colaboração de instituições federais, 
+e municipais de todo o Brasil. Trazendo o olhar da gestão dos recursos hídricos, 
+e apresenta informações, diagnósticos e propostas de soluções para todas as 5.570 
+municipais do País, amparados na avaliação da situação da coleta e tratamento dos 
+e do impacto do lançamento desses efluentes nos corpos hídricos, com uma visão sistêmica 
+bacia hidrográfica. As propostas de soluções foram elaboradas para o horizonte de 
+com foco na proteção dos recursos hídricos, no seu uso sustentável para depuração 
+efluentes urbanos e na racionalização dos investimentos. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ibge-pnadc 
+description: 
+	A Pesquisa Nacional por Amostra de Domicílios Contínua, PNAD Contínua, é uma pesquisa 
+pelo IBGE com o objetivo de produzir continuamente informações sobre mercado de 
+associadas a características demográficas e educacionais. Periodicamente, são analisados 
+adicionais permanentes, como trabalho infantil e outras formas de trabalho, fecundidade 
+migração, e suplementares, selecionados segundo necessidade, relativos ao desenvolvimento 
+do país.A pesquisa fornece informações mensais para um conjunto restrito de indicadores 
+à força de trabalho, trimestral para os indicadores de força de trabalho, anual 
+temas permanentes e adicionais sobre força e trabalho e variável para temas suplementares. 
+informações mensais são representativas apenas em nível nacional e as demais têm 
+para os níveis geográficos: Brasil, Grandes Regiões, Unidades da Federação, 20 Regiões 
+que contêm Municípios das Capitais, Municípios das Capitais e Região Integrada de 
+da Grande Teresina. A cada trimestre, são investigados cerca de 211.000 domicílios 
+em aproximadamente 16.000 setores censitários de 3.500 municípios. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ibge-censo-agropecuario 
+description: 
+	O Censo Agropecuário, realizado pelo Instituto Brasileiro de Geografia e Estatística 
+é a principal e mais completa investigação estatística e territorial sobre a produção 
+do país. Visa obter informações sobre a estrutura, a dinâmica e o nível de produção 
+atividade agropecuária brasileira.
+
+As informações geradas possibilitam a avaliação de políticas públicas como, por 
+a de redistribuição de terras. Elas permitem, ainda, estudos a respeito da expansão 
+fronteiras agrícolas, da dinamização produtiva ditada pelas inovações tecnológicas, 
+enriquecem a produção de indicadores ambientais. Propiciam também análises sobre 
+decorrentes do processo de reestruturação e de ajustes na economia e de seus reflexos 
+o setor.
+
+Enquanto as pesquisas mensais e trimestrais sobre agricultura e pecuária disponibilizam 
+referentes ao Brasil, Grandes Regiões e Unidades da Federação, os resultados do 
+Agro são referidos a municípios e a localidades, permitindo agregações e análises 
+diferentes recortes territoriais, como unidades de conservação ambiental, terras 
+bacias hidrográficas, Biomas, assentamentos fundiários, áreas remanescentes de quilombos, 
+
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-imprensa-nacional-dou 
+description: 
+	Esta base contém o Diário Oficial da União (DOU), no formato de uma tabela. Eventualmente, 
+conter dados e informações extraídos do DOU em views ou tabelas sobre assuntos específicos. 
+informações sobre o DOU podem ser obtidas aqui: http://imprensa.in.gov.br/central/duvida.do?metodo=getFaqList. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-sp-saopaulo-dieese-icv 
+description: 
+	O Índice do Custo de Vida do Departamento Intersindical de Estatística e Estudos 
+(ICV-DIEESE) abrange todos os domicílios e faixas de renda e busca mensurar a variação 
+preços dentro do município de São Paulo. Ele é calculado com base na cesta de bens 
+serviços definida pela Pesquisa de Orçamento Familiar (POF), para que o cálculo 
+as mudanças de consumo das famílias paulistanas ao longo do tempo. Os grupos utilizados 
+este cálculo são: Alimentação, Habitação, Equipamentos Domésticos, Transporte, Vestuário, 
+e Leitura, Saúde, Recreação, Despesas Pessoais e Despesas Diversas. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ibge-pib 
+description: 
+	Um sistema de indicadores municipais com informações econômicas e sociais é importante 
+para o planejamento de políticas públicas. Com a promulgação da Constituição Federal 
+1988, que deu mais responsabilidade e autonomia aos municípios, ampliaram-se as 
+por informações econômicas padronizadas e comparáveis em nível municipal, tanto 
+parte de agentes públicos e privados, quanto por estudiosos da economia, e pela 
+em geral. os resultados do PIB dos Municípios permitem identificar as áreas de geração 
+renda, produzindo informações que captam as especifidades do País. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-mc-auxilio-emergencial 
+description: 
+	O auxílio emergencial aprovado pelo Congresso Nacional e sancionado pela Presidência 
+República é um benefício de R$ 600 para garantir uma renda mínima aos brasileiros 
+situação mais vulnerável durante a pandemia do Covid-19 (novo coronavírus), já que 
+atividades econômicas foram gravemente afetadas pela crise. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-inpe-prodes 
+description: 
+	O projeto PRODES realiza o monitoramento por satélites do desmatamento por corte 
+na Amazônia Legal e produz, desde 1988, as taxas anuais de desmatamento na região, 
+são usadas pelo governo brasileiro para o estabelecimento de políticas públicas. 
+taxas anuais são estimadas a partir dos incrementos de desmatamento identificados 
+cada imagem de satélite que cobre a Amazônia Legal. A primeira apresentação dos 
+é realizada para dezembro de cada ano, na forma de estimativa. Os dados consolidados 
+apresentados no primeiro semestre do ano seguinte.
+
+O PRODES utiliza imagens de satélites da classe LANDSAT (20 a 30 metros de resolução 
+e taxa de revisita de 16 dias) numa combinação que busca minimizar o problema da 
+de nuvens e garantir critérios de interoperabilidade. As imagens do satélite americano 
+foram, historicamente, as mais utilizadas pelo projeto, mas as imagens do sensor 
+a bordo do CBERS-2/2B, satélites do programa sino-brasileiro de sensoriamento remoto, 
+bastante usadas. O PRODES também fez uso de imagens LISS-3 do satélite indiano IRS-1 
+também das imagens do satélite inglês UK-DMC2. Atualmente faz uso massivo das imagens 
+LANDSAT 8/OLI, CBERS 4 e IRS-2. Independente do instrumento utilizado, a área mínima 
+pelo PRODES é de 6,25 hectares.
+
+As estimativas do PRODES são consideradas confiáveis pelos cientistas nacionais 
+internacionais (Kintish, 2007). Esse sistema tem demonstrado ser de grande importância 
+ações e planejamento de políticas públicas da Amazônia. Resultados recentes, a partir 
+análises realizadas com especialistas independentes, indicam nível de precisão próximo 
+95%. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-mapbiomas-estatisticas 
+description: 
+	O Projeto de Mapeamento Anual da Cobertura e Uso do Solo do Brasil é uma iniciativa 
+envolve uma rede colaborativa com especialistas nos biomas, usos da terra, sensoriamento 
+SIG e ciência da computação que utiliza processamento em nuvem e classificadores 
+desenvolvidos e operados a partir da plataforma Google Earth Engine para gerar uma 
+histórica de mapas anuais de cobertura e uso da terra do Brasil. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-mobilidados-indicadores 
+description: 
+	A MobiliDADOS foi criada com o objetivo de promover o uso de informações confiáveis 
+processos de elaboração, monitoramento e avaliação de políticas de mobilidade e 
+urbano. Além de indicadores para capitais e regiões metropolitanas, a plataforma 
+acesso a todos os dados brutos utilizados e descreve as metodologias de apuração 
+cada indicador. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ibge-amc 
+description: 
+	As mudanças ocorridas nas áreas e limites dos municípios impedem comparações geograficamente 
+da evolução temporal dos dados demográficos, econômicos e sociais. Para possibilitar 
+consistentes no tempo é necessário agregar os municípios em áreas mínimas comparáveis, 
+seja, no menor número de municípios necessário para que a área geográfica conjunta 
+constante ao longo do período de análise. A base contempla qualquer subperíodo arbitrário 
+dois anos de censo na faixa entre o primeiro e o último censo demográfico (1872-2010). 
+em material compilado recentemente pelo Instituto Brasileiro de Geografia e Estatística 
+
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-abrinq-oca 
+description: 
+	O Observatório da Criança e do Adolescente é um espaço virtual que possibilita 
+consulta, em um mesmo lugar, dos principais indicadores sociais relacionados direta 
+indiretamente à infância e adolescência no Brasil. Seu objetivo é organizar as informações 
+facilitar o acesso a bases de dados de diversas fontes púbicas e privadas sobre 
+qualidade de vida e bem-estar de crianças e adolescentes com idades ente zero e 
+anos, permitindo uma análise da evolução das principais políticas, dos desafios 
+das desigualdades regionais. Destina-se a formadores de opinião, representantes 
+sociedade civil, pesquisadores, gestores públicos e quaisquer pessoas que queiram, 
+partir de um simples mecanismo de busca online, conhecer a realidade e os problemas 
+que mais afetam as crianças e os adolescentes no país. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	mundo-transfermarkt-competicoes 
+description: 
+	Dados de competições de futebol no mundo com informações de partidas, times, e 
+tabela do campeonato brasileiro inclui dados desde 2003 com detalhes como número 
+gols, estádio, árbitro, técnicos, e mais. Para detalhes de código e análises, ver 
+[Github](https://github.com/basedosdados/mais/tree/master/bases/mundo_transfermarkt_competicoes).
+
+ 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ms-atencao-basica 
+description: 
+	Cobertura populacional estimada de equipes de saúde da família (eSF) e de equipes 
+Atenção Básica (eAB) utilizada para o monitoramento do acesso aos serviços de Atenção 
+com vistas ao fortalecimento do planejamento do Sistema Único de Saúde (SUS). 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ibge-censo-demografico 
+description: 
+	O Censo Demográfico é a mais complexa operação estatística realizada por um país, 
+quando ele tem dimensões continentais como o Brasil, com 8.515.692,27 km², distribuídos 
+um território heterogêneo, muitas vezes de difícil acesso, composto por 27 Unidades 
+Federação e 5.565 municípios e com uma população de 190.755.799 habitantes.
+
+Os censos demográficos são pesquisas estatísticas cujo levantamento consiste na 
+a todos os domicílios de um país e constituem a única fonte de referência para o 
+das condições de vida da população em todos os municípios e em seus recortes territoriais 
+- distritos, bairros e localidades, rurais ou urbanos. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-inep-saeb 
+description: 
+	O Sistema de Avaliação da Educação Básica (Saeb) é um conjunto de avaliações externas 
+larga escala que permite ao Inep realizar um diagnóstico da educação básica brasileira 
+de fatores que podem interferir no desempenho do estudante. Desde 1995, a avaliação 
+busca fornecer um panorama da Educação Básica e sofreu algumas mudanças metodológicas 
+aprimoramento. Juntamente com outros indicadores, as notas do SAEB estruturam a 
+do Índice de Desenvolvimento da Educação Básica (Ideb). 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	sinopses-estatisticas-da-educacao-basica 
+description: 
+	As Sinopses Estatísticas da Educação Básica, até 2006, apresentam dados referentes 
+estabelecimento, matrícula, função docente, movimento e rendimento escolar, para 
+diferentes modalidades de ensino brasileiras: Ensino Regular (Educação Infantil 
+Ensino Fundamental e Médio), Educação Especial e Educação de Jovens e Adultos. Os 
+estão distribuídos de acordo com as regiões brasileiras e suas respectivas unidades 
+federação.
+ 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-sp-alesp 
+description: 
+	O Portal Dados Abertos ALESP é a ferramenta disponibilizada pelo parlamento paulista 
+que todos possam encontrar e utilizar os dados e as informações públicas da casa. 
+portal também tem o objetivo de promover a interlocução entre atores da sociedade 
+os seus representantes para pensar a melhor utilização dos dados em prol de uma 
+melhor.
+
+O portal tem o objetivo de disponibilizar todo e qualquer tipo de dado relativo 
+Poder Legislativo do Estado de São Paulo. Por exemplo, dados do Processo Legislativo, 
+sobre os deputados estaduais (contatos, áreas de atuação, bases eleitorais, produção 
+da prestação de contas dos deputados com os gastos de gabinetes, etc. O portal funciona 
+um grande catálogo que facilita a busca e uso de dados produzidos e publicados pela 
+
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-me-cno 
+description: 
+	O cadastro nacional de obras (CNO) é uma base de dados de registro de obras de 
+civil administrado pela Receita Federal. A obra deverá ser registrada no prazo de 
+30 dias do início das atividades. 
+Devem ser registradas todas as obras de construção civil, com algumas exceções, 
+reformas de pequeno valor. São informados os responsáveis pela obra, área total 
+datas referentes às atividades da construção.      
+O CNO foi criado em 2018 para substituir o Cadastro Específico do INSS de obras 
+As obras cadastradas no CEI estão sendo migradas para o CNO e possuem a mesma inscrição 
+
+ 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-me-socios 
+description: 
+	Quadros societários e de administradores das pessoas jurídicas brasileiras tratados 
+[Brasil.IO](https://brasil.io/) 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-me-caged 
+description: 
+	O Cadastro Geral de Empregados e Desempregados – CAGED, instituído pela Lei nº 
+em 23 de dezembro de 1965, constitui fonte de informação de âmbito nacional e de 
+mensal. Foi criado como instrumento de acompanhamento e de fiscalização do processo 
+admissão e de dispensa de trabalhadores regidos pela CLT, com o objetivo de assistir 
+desempregados e de apoiar medidas contra o desemprego.
+
+O CAGED é um Registro Administrativo, e, inicialmente, objetivou gerir e controlar 
+concessão do auxílio-desemprego. A partir de 1986, passou a ser utilizado como suporte 
+pagamento do seguro desemprego e, mais recentemente, tornou-se, também, um relevante 
+à reciclagem profissional e à recolocação do trabalhador no mercado de trabalho 
+ainda, um importante subsídio para a fiscalização.
+
+Devido à crescente demanda por dados conjunturais do mercado de trabalho e à necessidade 
+Ministério em contar com estatísticas mais completas, mais consistentes e mais ágeis, 
+implementadas expressivas alterações ao sistema – Lei nº 4.923/65. Como decorrência 
+substanciais avanços, pôde-se construir, a partir de 1983, o índice mensal de emprego, 
+taxa de rotatividade e a flutuação da mão-de-obra (admitidos / desligados).
+
+Os aperfeiçoamentos ocorridos no sistema CAGED e também na metodologia de tratamento 
+dados tornaram esse registro administrativo uma das principais fontes de informações 
+sobre o mercado de trabalho conjuntural. O CAGED apresenta desagregações idênticas 
+da RAIS, em termos geográficos, setoriais e ocupacionais, possibilitando a realização 
+estudos que indicam as tendências mais atuais. No espectro conjuntural, é a única 
+de informação com tal nível de desagregação, sendo, portanto, imprescindível para 
+balizamento das intervenções dos formuladores de políticas na esfera do mercado 
+trabalho, aumentando a eficácia e eficiência das políticas de emprego que possibilitam 
+aumento do número e da qualidade de postos de trabalho e, por conseguinte, a redução 
+desigualdade social.
+
+A qualidade das informações do CAGED vem apresentando significativa melhora. Concorreu 
+esse fato a implantação da Portaria nº 561/2001 que determinou a extinção da declaração 
+CAGED em formulário padrão a partir da competência de novembro de 2001. Esta medida 
+um impacto positivo na qualidade, uma vez que as informações declaradas, em meios 
+passam por um processo de críticas. Ademais, a implantação da recepção do CAGED, 
+Internet, possibilitou, também, um ganho na tempestividade. 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ibge-ipca15 
+description: 
+	None 
+-----------------------------------------------------------------------------------------------
+dataset_id: 
+	br-ibge-ipca 
+description: 
+	Índice Nacional de Preços ao Consumidor Amplo - IPCA é produzido pelo IBGE desde 
+de 1979. O IPCA é utilizado como indicador oficial do País desde 1985 para corrigir 
+aluguéis, taxa de câmbio, poupança, entre outros. São divulgados os índices gerais, 
+grupos de produtos, subgrupos, itens e subitens, para as regiões pesquisadas, além 
+agregado Brasil. 
+-----------------------------------------------------------------------------------------------
+
