@@ -26,7 +26,7 @@ Então, depois de um breve tratamento dos dados, foram exploradas 3 visualizaç�
 
 O arquivo `data_visualization.ipynb` encontra-se na pasta `code`, juntamente com o `data_download.ipynb` que foi utilizado para acessar as tabelas remotamente e salvar os dataframes em arquivos pickle comprimidos para garantir tamanhos pequenos.
 
-
+Obs.: na pasta `docs` coloquei imagens dos gráficos produzidos pelo Plotly, caso não seja possível visualizar no jupyter notebook.
 
 ## Contato: 
 
