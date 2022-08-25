@@ -14,7 +14,7 @@ Então, depois de um breve tratamento dos dados, foram exploradas 3 visualizaç�
     
     2.1 Lineplot interativo (a cada mês).
 
-    2.2 Lineplot interativo (a cada ano).
+    2.2 Barplot vertical interativo (a cada ano).
 
 3. Correlações entre os Investimentos de Cada Área.
 
